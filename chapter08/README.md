@@ -9,11 +9,6 @@
 
 엔티티를 조회할 때 연관된 엔티티들이 항상 사용되는 것은 아니다.
 
-<script src="https://gist.github.com/4cb261f3a2b6b480e51ba60536cb51ec.js"></script>
-
-<script src="https://gist.github.com/34ea562a8e17e0d1b7f7e1ac0ed24c12.js"></script>
-
-<script src="https://gist.github.com/e4d4bcfb38254af00ea11b796a92d556.js"></script>
 
 - printUserAndTeam() 메서드는 memberId로 회원 엔티티를 찾아서 연관된 팀의 이름도 출력한다.
 - 반면 printUser() 메서드는 회원 엔티티만 출력하고 연관된 팀 엔티티는 전혀 사용하지 않는다.
